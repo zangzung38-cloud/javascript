@@ -3,7 +3,7 @@
 // alert( 3 + 3)  // we are using nodejs, not browser
 
 console.log(3 + 3); console.log("hello world")  // this will execute 
-// but not professional way of doing it and code readibility should be high.nnnnn
+// but not professional way of doing it and code readibility should be high
 
 // istead of write like line 5, we should write like below
 console.log(3 + 3)
