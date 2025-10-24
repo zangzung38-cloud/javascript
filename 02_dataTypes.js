@@ -1,1 +1,1 @@
-console.table
+console.table()
