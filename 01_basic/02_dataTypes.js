@@ -9,6 +9,20 @@ console.log(3 + 3); console.log("hello world")  // this will execute
 console.log(3 + 3)
 console.log("hello world")
 
+// number => 2 to power 53 then we will use bigint dataType
+// bigint 
+// string => ""
+// boolean => true/false
+// null => empty value
+// undefined => not assigned value
+// symbol => unique identifier
+
+// object => key value pair
+console.log(typeof "hello world")
+console.log(typeof null)
+// array => list of items
+// function => block of code to perform a specific task
+
 /* // Data types in JS
 
 // 1. Primitive data types
